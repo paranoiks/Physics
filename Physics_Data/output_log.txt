@@ -1,0 +1,3902 @@
+Initialize engine version: 5.2.3f1 (f3d16a1fa2dd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Temp\Physics\Physics\Physics_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Temp\Physics\Physics\Physics_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Temp\Physics\Physics\Physics_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Temp\Physics\Physics\Physics_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Temp\Physics\Physics\Physics_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Temp\Physics\Physics\Physics_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Temp\Physics\Physics\Physics_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Temp\Physics\Physics\Physics_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Temp\Physics\Physics\Physics_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.054 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Temp\Physics\Physics\Physics_Data\Managed\System.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.GetNewPath (Boolean newPath) [0x00000] in <filename unknown>:0 
+  at SprintBotController.NewCollectibleSpawned (UnityEngine.GameObject collectible) [0x00000] in <filename unknown>:0 
+  at Overseer.TellTheBotsNewCollectible (UnityEngine.GameObject collectible) [0x00000] in <filename unknown>:0 
+  at GameController.SpawnCollectible () [0x00000] in <filename unknown>:0 
+  at GameController.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at EnforcerBotController.GetTargetNodeShootingPoint () [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.GetNewPath (Boolean newPath) [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.GetNewPath (Boolean newPath) [0x00000] in <filename unknown>:0 
+  at SprintBotController.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1a30 -> priority: 1 
+  Thread -> id: 1180 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at EnforcerBotController.EvaluateShootingPosition () [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at EnforcerBotController.EvaluateShootingPosition () [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at EnforcerBotController.EvaluateShootingPosition () [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+StartNodesStuff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+FinishNodesStuff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at EnforcerBotController.GetTargetNodeShootingPoint () [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.GetNewPath (Boolean newPath) [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.HandlePathResetTimer () [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.GetNewPath (Boolean newPath) [0x00000] in <filename unknown>:0 
+  at SprintBotController.HandlePathResetTimer () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.GetNewPath (Boolean newPath) [0x00000] in <filename unknown>:0 
+  at SprintBotController.NewCollectibleSpawned (UnityEngine.GameObject collectible) [0x00000] in <filename unknown>:0 
+  at Overseer.TellTheBotsNewCollectible (UnityEngine.GameObject collectible) [0x00000] in <filename unknown>:0 
+  at GameController.SpawnCollectible () [0x00000] in <filename unknown>:0 
+  at GameController.ResetCollectible () [0x00000] in <filename unknown>:0 
+  at PhysicsHandler.Hit (UnityEngine.GameObject obj, Vector2 MTV) [0x00000] in <filename unknown>:0 
+  at CollisionChecker.HandleCollisionChecks () [0x00000] in <filename unknown>:0 
+  at CollisionChecker.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at EnforcerBotController.GetTargetNodeShootingPoint () [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.GetNewPath (Boolean newPath) [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.HandlePathResetTimer () [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.GetNewPath (Boolean newPath) [0x00000] in <filename unknown>:0 
+  at SprintBotController.HandlePathResetTimer () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.GetNewPath (Boolean newPath) [0x00000] in <filename unknown>:0 
+  at SprintBotController.NewCollectibleSpawned (UnityEngine.GameObject collectible) [0x00000] in <filename unknown>:0 
+  at Overseer.TellTheBotsNewCollectible (UnityEngine.GameObject collectible) [0x00000] in <filename unknown>:0 
+  at GameController.SpawnCollectible () [0x00000] in <filename unknown>:0 
+  at GameController.ResetCollectible () [0x00000] in <filename unknown>:0 
+  at PhysicsHandler.Hit (UnityEngine.GameObject obj, Vector2 MTV) [0x00000] in <filename unknown>:0 
+  at CollisionChecker.HandleCollisionChecks () [0x00000] in <filename unknown>:0 
+  at CollisionChecker.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.GetNewPath (Boolean newPath) [0x00000] in <filename unknown>:0 
+  at SprintBotController.NewCollectibleSpawned (UnityEngine.GameObject collectible) [0x00000] in <filename unknown>:0 
+  at Overseer.TellTheBotsNewCollectible (UnityEngine.GameObject collectible) [0x00000] in <filename unknown>:0 
+  at GameController.SpawnCollectible () [0x00000] in <filename unknown>:0 
+  at GameController.ResetCollectible () [0x00000] in <filename unknown>:0 
+  at PhysicsHandler.Hit (UnityEngine.GameObject obj, Vector2 MTV) [0x00000] in <filename unknown>:0 
+  at CollisionChecker.HandleCollisionChecks () [0x00000] in <filename unknown>:0 
+  at CollisionChecker.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.GetNewPath (Boolean newPath) [0x00000] in <filename unknown>:0 
+  at SprintBotController.NewCollectibleSpawned (UnityEngine.GameObject collectible) [0x00000] in <filename unknown>:0 
+  at Overseer.TellTheBotsNewCollectible (UnityEngine.GameObject collectible) [0x00000] in <filename unknown>:0 
+  at GameController.SpawnCollectible () [0x00000] in <filename unknown>:0 
+  at GameController.ResetCollectible () [0x00000] in <filename unknown>:0 
+  at PhysicsHandler.Hit (UnityEngine.GameObject obj, Vector2 MTV) [0x00000] in <filename unknown>:0 
+  at CollisionChecker.HandleCollisionChecks () [0x00000] in <filename unknown>:0 
+  at CollisionChecker.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at EnforcerBotController.GetTargetNodeShootingPoint () [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.GetNewPath (Boolean newPath) [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.HandlePathResetTimer () [0x00000] in <filename unknown>:0 
+  at EnforcerBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.GetNewPath (Boolean newPath) [0x00000] in <filename unknown>:0 
+  at SprintBotController.HandlePathResetTimer () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.GetNewPath (Boolean newPath) [0x00000] in <filename unknown>:0 
+  at SprintBotController.NewCollectibleSpawned (UnityEngine.GameObject collectible) [0x00000] in <filename unknown>:0 
+  at Overseer.TellTheBotsNewCollectible (UnityEngine.GameObject collectible) [0x00000] in <filename unknown>:0 
+  at GameController.SpawnCollectible () [0x00000] in <filename unknown>:0 
+  at GameController.ResetCollectible () [0x00000] in <filename unknown>:0 
+  at PhysicsHandler.Hit (UnityEngine.GameObject obj, Vector2 MTV) [0x00000] in <filename unknown>:0 
+  at CollisionChecker.HandleCollisionChecks () [0x00000] in <filename unknown>:0 
+  at CollisionChecker.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SprintBotController.EvaluatePath () [0x00000] in <filename unknown>:0 
+  at SprintBotController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
